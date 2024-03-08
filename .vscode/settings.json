@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.shellArgs.osx": [
+        "-l"
+    ],
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${workspaceFolder}/myenv/bin/python"
+    },
+    "terminal.integrated.automationShell.osx": "",
+    "python.terminal.activateEnvironment": true,
+    "python.pythonPath": "${workspaceFolder}/myenv/bin/python",
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
